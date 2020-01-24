@@ -1,5 +1,5 @@
 # Dice Game
-##### Also know as Pig Game - May have a lot versions
+##### Also know as Pig Game - May have a lot pf versions
 
 GAME RULES:
 - The game has 2 players, playing in rounds
@@ -12,4 +12,4 @@ GAME RULES:
 - There are two dices now. The player looses his current score when one of them is a 1.
 
 ### Check it out here:
-[https://arvind-web.github.io/dice-game]
+https://arvind-web.github.io/dice-game
